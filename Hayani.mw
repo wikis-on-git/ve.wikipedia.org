@@ -30,8 +30,25 @@ width=45
 '''Afurika Tshipembe wikis'''
 [http://af.wikipedia.org Afrikaans] [http://en.wikipedia.org English] [http://xh.wikipedia.org isiXhosa] [http://zu.wikipedia.org isiZulu] [http://st.wikipedia.org Sesotho] [http://tn.wikipedia.org Setswana] [http://ss.wikipedia.org SiSwati] [http://ts.wikipedia.org Xitsonga]
 
-'''Other wikis'''
-<small>[http://meta.wikipedia.org Meta-Wikipedia/Meta-Vicipaedia] | [http://wiktionary.org Wikitonary/Victionaria] | [http://wikibooks.org Wikibooks/Vicilibraria] | [http://wikiquote.org Wikiquote/Viciquotas] | [http://wikisource.org Wikisource]</small>
+{| align="center" cellpadding="2" width="100%" style="text-align:left"
+| [[Image:Wiktionary-logo-en.png|35px|<nowiki></nowiki>]]
+| [http://wiktionary.org '''Wiktionary''']<br />
+| [[Image:Wikibooks-logo.svg|35px|<nowiki></nowiki>]]
+| [http://wikibooks.org '''Wikibooks''']<br />
+| [[Image:Wikiquote-logo.svg|35px|<nowiki></nowiki>]]
+| [http://wikiquote.org '''Wikiquote''']<br />
+| [[Image:Wikisource-logo.png|35px|<nowiki></nowiki>]]
+| [http://wikisource.org '''Wikisource''']<br />
+|-
+| [[Image:Wikispecies-logo.png|35px|<nowiki></nowiki>]]
+| [[Wikispecies:|'''Wikispecies''']]<br />
+| [[Image:Wikinews-logo.png|35px|<nowiki></nowiki>]]
+| [http://wikinews.org. '''Wikinews''']<br />
+| [[Image:Commons-logo.svg|35px|<nowiki></nowiki>]]
+| [[commons:Main Page|'''Commons''']]<br />
+| [[Image:Wikimedia-logo.svg|35px|<nowiki></nowiki>]]
+| [[m:Main Page|'''Meta-Wiki''']]<br />
+|}
 
 [[aa:]]
 [[af:]]
