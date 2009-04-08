@@ -4,8 +4,8 @@
 | style="background:#efefef;" align="center" colspan=2 |
 {| border="0" cellpadding="2" cellspacing="0"
 |-
-| align="center" width="140px" | [[Image:Flag of Botswana.svg|125px|Flag of Botswana]]
-| align="center" width="140px" | [[Image:Coat_of_arms_of_Botswana.png]]
+| align="center" width="140px" | [[File:Flag of Botswana.svg|125px|Flag of Botswana]]
+| align="center" width="140px" | [[File:Coat_of_arms_of_Botswana.png]]
 |-
 | align="center" width="140px" | ([[Folaga la Botswana|Folaga]])
 | align="center" width="140px" | ([[Coat of Arms of Botswana|Coat of Arms]])
@@ -13,7 +13,7 @@
 |-
 | align="center" colspan=2 | <small>''[[National motto]]: Pula''</big>
 |-
-| align=center colspan=2 | [[image:LocationBotswana.png]]
+| align=center colspan=2 | [[File:LocationBotswana.png]]
 |}
 
 [[Category:Afurika]]
@@ -89,6 +89,7 @@
 [[la:Botsuana]]
 [[lb:Botswana]]
 [[lij:Bòtswana]]
+[[lmo:Botswana]]
 [[ln:Botswana]]
 [[lt:Botsvana]]
 [[lv:Botsvana]]
